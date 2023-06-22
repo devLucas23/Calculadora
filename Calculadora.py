@@ -174,6 +174,3 @@ botao_operador('=', botao_igual, 4, 3)
 """Essas linhas criam e posicionam os botões da calculadora"""
 root.mainloop()
 #Essa linha inicia o loop principal da janela
-"""git remote add origin https://github.com/LucasFerreira123/Calculadora.git
- git branch -M main 
-git push -u origin main"""
